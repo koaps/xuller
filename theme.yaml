@@ -1,0 +1,18 @@
+# theme.toml template for a Hugo theme
+
+name = "Xuller"
+license = "MIT"
+licenselink = "https://github.com/koaps/xuller/blob/master/LICENSE"
+description = "A simple Hugo theme"
+homepage = "https://koaps.github.io/xuller/"
+tags = [
+  "simple"
+]
+features = [
+  "blog"
+]
+min_version = "0.146.0"
+
+[author]
+  name = "Koaps"
+  homepage = "https://github.com/koaps/"
